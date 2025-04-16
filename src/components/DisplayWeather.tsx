@@ -1,6 +1,7 @@
 import { AiOutlineSearch } from "react-icons/ai"
 import { MainWrapper } from "./styles.module"
-import { WiDaySunny, WiDaySunnyOvercast, WiHumidity } from "react-icons/wi"
+import { WiHumidity } from "react-icons/wi"
+// import { WiDaySunny, WiDaySunnyOvercast, WiHumidity } from "react-icons/wi"
 import { FiWind } from "react-icons/fi"
 import axios from "axios"
 import React, { useEffect, useState } from "react"
